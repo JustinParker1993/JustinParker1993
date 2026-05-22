@@ -1,16 +1,101 @@
-## Hi there 👋
+## Hi, I'm Justin 👋
 
-<!--
-**JustinParker1993/JustinParker1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Recent Computer Science graduate with a growing focus on network engineering, cloud infrastructure, and SOC operations. I enjoy building hands-on labs, learning enterprise technologies, and developing practical security and networking skills through projects and continuous learning.
 
-Here are some ideas to get you started:
+🚀 Interests
+🌐 Network Engineering & Network Security
+☁️ Cloud Infrastructure & Cloud Networking
+🛡️ SOC Operations & Threat Detection
+🔍 SIEM Monitoring & Log Analysis
+🧰 Infrastructure as Code & Automation
+🔐 Identity & Access Management
+📡 Routing, Switching, VPNs, and Firewalls
+🐧 Linux Administration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Technologies & Tools
+
+Networking
+* Cisco Networking
+* VLANs
+* Subnetting
+* Routing & Switching
+* DHCP / DNS
+* VPNs
+* Wireshark
+* Packet Tracer
+* Network Troubleshooting
+
+Cloud
+* Microsoft Azure
+* Oracle (OCI)
+* Virtual Networks
+* Load Balancing
+* Cloud Security Basics
+* Infrastructure as Code
+
+Security / SOC
+* SIEM Fundamentals
+* Log Analysis
+* Threat Detection
+* Incident Response Basics
+* Vulnerability Management
+* Linux Security
+
+Operating Systems
+* Linux (Red Hat / Kali)
+* MacOS
+* Windows Server
+
+Automation
+* Python
+* Bash
+* Powershell
+  
+Development
+* Git & GitHub
+* Python
+* Bash
+* C++
+* C#
+* .NET MAUI
+* django
+
+
+Certifications
+* CompTIA Security+
+  
+📚 Currently Learning
+* Cisco (CCNA)
+* Identity & Access Management (Azure AD / Entra ID)
+* Advanced Cloud Networking
+* SOC Analyst Workflows
+* Azure Administration
+* Palo Alto & Enterprise Firewall Concepts
+
+
+🔬 Labs & Projects
+Active Directory Home Lab
+Cloud Networking Labs
+Security Monitoring & Log Analysis Projects
+Packet Analysis with Wireshark
+VLAN & Routing Simulations
+Kubernetes & OpenShift Practice Environments
+
+
+🎯 Career Goals
+
+Seeking opportunities in:
+
+* SOC Analyst Roles
+* Systems Administration
+* Network Administration
+* Network Engineering
+* Network Security
+* Cloud Support / Cloud Administration
+* Infrastructure & Operations
+  
+📫 Connect With Me
+   * Linkedin: www.linkedin.com/in/justin-parker-45632992
+   * Email: JustinParker497@gmail.com
+LinkedIn: (Add your LinkedIn URL here)
+GitHub: (Add your GitHub profile URL here)
