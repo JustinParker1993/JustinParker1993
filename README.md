@@ -76,13 +76,9 @@ Certifications
 
 
 🔬 Labs & Projects
-Active Directory Home Lab
-Cloud Networking Labs
-Security Monitoring & Log Analysis Projects
-Packet Analysis with Wireshark
-VLAN & Routing Simulations
-Kubernetes & OpenShift Practice Environments
 
+ * Active Directory Home Lab
+ * Security Monitoring & Log Analysis Projects
 
 🎯 Career Goals
 
