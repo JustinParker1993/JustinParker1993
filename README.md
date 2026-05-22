@@ -99,5 +99,4 @@ Seeking opportunities in:
 📫 Connect With Me
    * Linkedin: www.linkedin.com/in/justin-parker-45632992
    * Email: JustinParker497@gmail.com
-LinkedIn: (Add your LinkedIn URL here)
-GitHub: (Add your GitHub profile URL here)
+
