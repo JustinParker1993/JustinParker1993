@@ -63,6 +63,8 @@ Development
 
 Certifications
 * CompTIA Security+
+* CCNA ~ In progress
+* AZ-900 ~ In progress
   
 📚 Currently Learning
 * Cisco (CCNA)
