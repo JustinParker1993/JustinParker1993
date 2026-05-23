@@ -78,6 +78,7 @@ Certifications
 🔬 Labs & Projects
 
  * Active Directory Home Lab
+ * Network Troubleshooting
  * Security Monitoring & Log Analysis Projects
 
 🎯 Career Goals
