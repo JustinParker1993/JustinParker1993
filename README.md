@@ -62,9 +62,12 @@ Development
 
 
 Certifications
-* CompTIA Security+
-* CCNA ~ In progress
+* CompTIA Security+ ~ Achieved May, 2026
 * AZ-900 ~ In progress
+* SC-900 ~ TBD
+* SC-200 ~ TBD
+* CCNA ~ TBD
+  
   
 📚 Currently Learning
 * Cisco (CCNA)
