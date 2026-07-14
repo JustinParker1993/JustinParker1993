@@ -1,6 +1,6 @@
 ## Hi, I'm Justin 👋
 
-Recent Computer Science graduate with a growing focus on network engineering, cloud infrastructure, and SOC operations. I enjoy building hands-on labs, learning enterprise technologies, and developing practical security and networking skills through projects and continuous learning.
+Recent Computer Science graduate with a growing focus on network troubleshooting, cloud infrastructure, and SOC operations. I enjoy building hands-on labs, learning enterprise technologies, and developing practical security and networking skills through projects and continuous learning.
 
 🚀 Interests
 🌐 Network Engineering & Network Security
@@ -17,7 +17,7 @@ Recent Computer Science graduate with a growing focus on network engineering, cl
 Networking
 * Cisco Networking
 * VLANs
-* Subnetting
+* Subnettingl
 * Routing & Switching
 * DHCP / DNS
 * VPNs
@@ -75,7 +75,7 @@ Certifications
 * Advanced Cloud Networking
 * SOC Analyst Workflows
 * Azure Administration
-* Palo Alto & Enterprise Firewall Concepts
+
 
 
 🔬 Labs & Projects
@@ -84,18 +84,7 @@ Certifications
  * Network Troubleshooting
  * Security Monitoring & Log Analysis Projects
 
-🎯 Career Goals
 
-Seeking opportunities in:
-
-* SOC Analyst Roles
-* Systems Administration
-* Network Administration
-* Network Engineering
-* Network Security
-* Cloud Support / Cloud Administration
-* Infrastructure & Operations
-  
 📫 Connect With Me
    * Linkedin: www.linkedin.com/in/justin-parker-45632992
    * Email: JustinParker497@gmail.com
