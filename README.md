@@ -70,11 +70,11 @@ Certifications
   
   
 📚 Currently Learning
-* Cisco (CCNA)
+* Azure Administration
+* SOC Analyst Workflows
 * Identity & Access Management (Azure AD / Entra ID)
 * Advanced Cloud Networking
-* SOC Analyst Workflows
-* Azure Administration
+
 
 
 
