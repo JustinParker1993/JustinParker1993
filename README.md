@@ -9,13 +9,11 @@ Recent Computer Science graduate with a growing focus on network troubleshooting
 🔍 SIEM Monitoring & Log Analysis
 🧰 Infrastructure as Code & Automation
 🔐 Identity & Access Management
-📡 Routing, Switching, VPNs, and Firewalls
 🐧 Linux Administration
 
 🛠️ Technologies & Tools
 
 Networking
-* Cisco Networking
 * VLANs
 * Subnettingl
 * Routing & Switching
@@ -80,7 +78,7 @@ Certifications
 
 🔬 Labs & Projects
 
- * Active Directory Home Lab
+ * Active Directory Home Lab 
  * Network Troubleshooting
  * Security Monitoring & Log Analysis Projects
 
