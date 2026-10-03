@@ -3,7 +3,7 @@
 I am a Cybersecurity Analyst passionate about securing environments and hardening systems. Focused on threat defense, cloud security, and automating security workflows. 
 
 
-This space serves as a central repository for my practical cybersecurity work, labs, and security automation tools.
+This space serves as a central repository for my practical cybersecurity work, software engineering work, labs, and security automation tools.
 
 
 
